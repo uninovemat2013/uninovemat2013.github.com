@@ -1,0 +1,22 @@
+---
+layout: default
+title: Informaçõe ssobre grupo de email
+categories: [geral]
+---
+
+
+published at: 2013-02-27 14:30 hs
+
+Nós temos um grupo de emails para comunicação entre nós, criado no google groups(<a href='https://groups.google.com/d/forum/uninove-matematica-2013-noturno'>esse é o link</a>) cujo email é _uninove-matematica-2013-noturno@googlegroups.com_.
+Este grupo é nossa principal forma de comunicação e é muito importante que todos estejam cadastrados.
+
+Para se cadastrar, envie um email para _iannsp@gmail.com_ e eu adiciono no grupo. Esse passo é necessário pois se deixassemos o grupo aberto para inscrições indiscriminadas poderiamos ter um ou outro troll e eu(ou qualquer outro que se ofereça para administrar) precisaria ficar moderando e isso ocupa tempo demais.
+
+O link do grupo de e-mail esta em nossa página, do lado direito caso desejam acessar diretamente pelo browser(internet explorer, firefox, chrome etc).
+
+Os arquivos de lista e todo o material enviado pelos professores podem ser enviados por qualquer para a lista, mas no momento estabeleci um protocolo com os professores que consiste em mandarem para mim e eu reenvio para a lista ou eles mesmos enviam para a lista.
+
+_Agora, além de estarem na lista também estaram aqui nesta página(e se alguem quiser colaborar, podemos colocar tambem as respostas junto a cada uma das listas, por exemplo). Espero com isso facilitar a vida de todos nós._
+
+
+Ivo Nascimento(mantenedor)
