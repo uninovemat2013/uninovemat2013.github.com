@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Informaçõe ssobre grupo de email
+title: Informaçõe sobre grupo de email
 categories: [geral]
 ---
 
