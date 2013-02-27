@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>/dev/null</title>
+ <link href="http://blog.augustopascutti.com/atom.xml" rel="self"/>
+ <link href="http://blog.augustopascutti.com/"/>
+ <updated>2013-02-27T16:31:57-03:00</updated>
+ <id>http://iannsp.github.com/</id>
+ <author>
+   <name>Ivo Nascimento Blog</name>
+   <email>iannsp@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Informaçõe ssobre grupo de email</title>
+   <link href="http://iannsp.github.com//geral/2013/02/27/Como-se-Cadastrar-No-Grupo/"/>
+   <updated>2013-02-27T00:00:00-03:00</updated>
+   <id>http://iannsp.github.com//geral/2013/02/27/Como-se-Cadastrar-No-Grupo</id>
+   <content type="html">&lt;p&gt;published at: 2013-02-27 14:30 hs&lt;/p&gt;
+&lt;p&gt;Nós temos um grupo de emails para comunicação entre nós, criado no google groups(&lt;a href='https://groups.google.com/d/forum/uninove-matematica-2013-noturno'&gt;esse é o link&lt;/a&gt;) cujo email é &lt;em&gt;uninove-matematica-2013-noturno@googlegroups.com&lt;/em&gt;.&lt;br /&gt;
+Este grupo é nossa principal forma de comunicação e é muito importante que todos estejam cadastrados.&lt;/p&gt;
+&lt;p&gt;Para se cadastrar, envie um email para &lt;em&gt;iannsp@gmail.com&lt;/em&gt; e eu adiciono no grupo. Esse passo é necessário pois se deixassemos o grupo aberto para inscrições indiscriminadas poderiamos ter um ou outro troll e eu(ou qualquer outro que se ofereça para administrar) precisaria ficar moderando e isso ocupa tempo demais.&lt;/p&gt;
+&lt;p&gt;O link do grupo de e-mail esta em nossa página, do lado direito caso desejam acessar diretamente pelo browser(internet explorer, firefox, chrome etc).&lt;/p&gt;
+&lt;p&gt;Os arquivos de lista e todo o material enviado pelos professores podem ser enviados por qualquer para a lista, mas no momento estabeleci um protocolo com os professores que consiste em mandarem para mim e eu reenvio para a lista ou eles mesmos enviam para a lista.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Agora, além de estarem na lista também estaram aqui nesta página(e se alguem quiser colaborar, podemos colocar tambem as respostas junto a cada uma das listas, por exemplo). Espero com isso facilitar a vida de todos nós.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ivo Nascimento(mantenedor)&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Bem-Vindo</title>
+   <link href="http://iannsp.github.com//geral/2013/02/27/Bem-Vindo/"/>
+   <updated>2013-02-27T00:00:00-03:00</updated>
+   <id>http://iannsp.github.com//geral/2013/02/27/Bem-Vindo</id>
+   <content type="html">&lt;p&gt;published at: 2013-02-27 14:30 hs&lt;/p&gt;
+&lt;p&gt;Sejam Bem-vindos ao site da Turma de Licenciatura Matemática do período Noturno do ano de 2013.&lt;br /&gt;
+Este site foi criado para ser um repositório de todo o material utilizado no curso como os arquivos de exercícios, listas, anotações e também referências extras que possam ajudar no dia-a-dia.&lt;/p&gt;
+&lt;p&gt;Sintam-se em casa.&lt;/p&gt;
+&lt;p&gt;Ivo Nascimento(mantenedor)&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Arquivos disponíveis</title>
+   <link href="http://iannsp.github.com//arquivos/2013/02/27/Arquivos-Disponiveis-ate-Hoje/"/>
+   <updated>2013-02-27T00:00:00-03:00</updated>
+   <id>http://iannsp.github.com//arquivos/2013/02/27/Arquivos-Disponiveis-ate-Hoje</id>
+   <content type="html">&lt;p&gt;published at: 2013-02-27 14:30 hs&lt;/p&gt;
+&lt;p&gt;Pessoal, esses são os arquivos disponibilizados pelos professores até o dia de hoje.&lt;br /&gt;
+Os novos arquivos serão anunciados na lista de email do google groups.&lt;br /&gt;
+&lt;a href='/arquivos.html'&gt;&lt;strong&gt;&lt;em&gt;Veja Os Arquivos e faça download Aqui&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ivo Nascimento(mantenedor)&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
