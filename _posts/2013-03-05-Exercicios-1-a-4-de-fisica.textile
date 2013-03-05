@@ -1,0 +1,15 @@
+---
+layout: default
+title: Arquivos disponíveis 
+categories: [arquivos]
+---
+
+
+published at: 2013-02-27 14:30 hs
+
+Pessoal, esses são os arquivos disponibilizados pelos professores até o dia de hoje.
+Os novos arquivos serão anunciados na lista de email do google groups.
+Creio que isso vai ajudar a todos a encontrar o material sempre que necessário.
+<a href='/arquivos.html'>*_Veja Os Arquivos e faça download Aqui_*</a>
+
+Ivo Nascimento(mantenedor)
