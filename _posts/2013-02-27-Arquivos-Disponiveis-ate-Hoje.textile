@@ -1,18 +1,15 @@
 ---
 layout: default
-title: Exercícios de Física (1 a 4) 
-categories: [arquivos, exercicio, fisica I]
+title: Arquivos disponíveis 
+categories: [arquivos]
 ---
 
 
-published at: 2013-03-05 12:40 hs
+published at: 2013-02-27 14:30 hs
 
-Conforme havia informado com relação a atualizações do site, aqui constam os exercícios de Física pedidos para serem entregues e enviados para mim pelo Rafael Bida(valeu cara).
-    <a href="/res/fisica_I/exercicios/exercicio1.pdf">Exercício 1</a><br/>
-    <a href="/res/fisica_I/exercicios/exercicio2.pdf">Exercício 2</a><br/>
-    <a href="/res/fisica_I/exercicios/exercicio3.pdf">Exercício 3</a><br/>
-    <a href="/res/fisica_I/exercicios/exercicio4.pdf">Exercício 4</a><br/>
+Pessoal, esses são os arquivos disponibilizados pelos professores até o dia de hoje.
+Os novos arquivos serão anunciados na lista de email do google groups.
+Creio que isso vai ajudar a todos a encontrar o material sempre que necessário.
+<a href='/arquivos.html'>*_Veja Os Arquivos e faça download Aqui_*</a>
 
-obs.:Clique no nome do exercício para fazer o download.
-
-_Ivo Nascimento(mantenedor)_
+Ivo Nascimento(mantenedor)
