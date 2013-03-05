@@ -2,49 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://iannsp.github.com/</loc>
-      <lastmod>2013-02-27</lastmod>
+      <lastmod>2013-03-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1</priority>
    </url>
 
    <url>
+      <loc>http://iannsp.github.com/arquivos/2013/03/05/Exercicios-1-a-4-de-fisica/</loc>
+      <lastmod>2013-03-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
       <loc>http://iannsp.github.com/old/2013/02/27/Como-se-Cadastrar-No-Grupo/</loc>
-      <lastmod>2013-02-27</lastmod>
+      <lastmod>2013-03-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
       <loc>http://iannsp.github.com/geral/2013/02/27/Como-se-Cadastrar-No-Grupo/</loc>
-      <lastmod>2013-02-27</lastmod>
+      <lastmod>2013-03-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
       <loc>http://iannsp.github.com/old/2013/02/27/Bem-Vindo/</loc>
-      <lastmod>2013-02-27</lastmod>
+      <lastmod>2013-03-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
       <loc>http://iannsp.github.com/geral/2013/02/27/Bem-Vindo/</loc>
-      <lastmod>2013-02-27</lastmod>
+      <lastmod>2013-03-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
       <loc>http://iannsp.github.com/old/2013/02/27/Arquivos-Disponiveis-ate-Hoje/</loc>
-      <lastmod>2013-02-27</lastmod>
+      <lastmod>2013-03-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
-      <loc>http://iannsp.github.com/arquivos/2013/02/27/Arquivos-Disponiveis-ate-Hoje/</loc>
-      <lastmod>2013-02-27</lastmod>
+      <loc>http://iannsp.github.com/arquivos/exercicio/fisica I/2013/02/27/Arquivos-Disponiveis-ate-Hoje/</loc>
+      <lastmod>2013-03-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>

@@ -4,13 +4,26 @@
  <title>/dev/null</title>
  <link href="http://blog.augustopascutti.com/atom.xml" rel="self"/>
  <link href="http://blog.augustopascutti.com/"/>
- <updated>2013-02-27T17:24:29-03:00</updated>
+ <updated>2013-03-05T12:37:43-03:00</updated>
  <id>http://iannsp.github.com/</id>
  <author>
    <name>Ivo Nascimento Blog</name>
    <email>iannsp@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Arquivos disponíveis</title>
+   <link href="http://iannsp.github.com//arquivos/2013/03/05/Exercicios-1-a-4-de-fisica/"/>
+   <updated>2013-03-05T00:00:00-03:00</updated>
+   <id>http://iannsp.github.com//arquivos/2013/03/05/Exercicios-1-a-4-de-fisica</id>
+   <content type="html">&lt;p&gt;published at: 2013-02-27 14:30 hs&lt;/p&gt;
+&lt;p&gt;Pessoal, esses são os arquivos disponibilizados pelos professores até o dia de hoje.&lt;br /&gt;
+Os novos arquivos serão anunciados na lista de email do google groups.&lt;br /&gt;
+Creio que isso vai ajudar a todos a encontrar o material sempre que necessário.&lt;br /&gt;
+&lt;a href='/arquivos.html'&gt;&lt;strong&gt;&lt;em&gt;Veja Os Arquivos e faça download Aqui&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ivo Nascimento(mantenedor)&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Informaçõe ssobre grupo de email</title>
@@ -79,16 +92,18 @@ Os novos arquivos serão anunciados na lista de email do google groups.&lt;br /&
  </entry>
  
  <entry>
-   <title>Arquivos disponíveis</title>
-   <link href="http://iannsp.github.com//arquivos/2013/02/27/Arquivos-Disponiveis-ate-Hoje/"/>
+   <title>Exercícios de Física (1 a 4)</title>
+   <link href="http://iannsp.github.com//arquivos/exercicio/fisica I/2013/02/27/Arquivos-Disponiveis-ate-Hoje/"/>
    <updated>2013-02-27T00:00:00-03:00</updated>
-   <id>http://iannsp.github.com//arquivos/2013/02/27/Arquivos-Disponiveis-ate-Hoje</id>
-   <content type="html">&lt;p&gt;published at: 2013-02-27 14:30 hs&lt;/p&gt;
-&lt;p&gt;Pessoal, esses são os arquivos disponibilizados pelos professores até o dia de hoje.&lt;br /&gt;
-Os novos arquivos serão anunciados na lista de email do google groups.&lt;br /&gt;
-Creio que isso vai ajudar a todos a encontrar o material sempre que necessário.&lt;br /&gt;
-&lt;a href='/arquivos.html'&gt;&lt;strong&gt;&lt;em&gt;Veja Os Arquivos e faça download Aqui&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ivo Nascimento(mantenedor)&lt;/p&gt;</content>
+   <id>http://iannsp.github.com//arquivos/exercicio/fisica I/2013/02/27/Arquivos-Disponiveis-ate-Hoje</id>
+   <content type="html">&lt;p&gt;published at: 2013-03-05 12:40 hs&lt;/p&gt;
+&lt;p&gt;Conforme havia informado com relação a atualizações do site, aqui constam os exercícios de Física pedidos para serem entregues e enviados para mim pelo Rafael Bida(valeu cara).&lt;br /&gt;
+    &lt;a href=&quot;/res/fisica_I/exercicios/exercicio1.pdf&quot;&gt;Exercício 1&lt;/a&gt;&lt;br/&gt;
+    &lt;a href=&quot;/res/fisica_I/exercicios/exercicio2.pdf&quot;&gt;Exercício 2&lt;/a&gt;&lt;br/&gt;
+    &lt;a href=&quot;/res/fisica_I/exercicios/exercicio3.pdf&quot;&gt;Exercício 3&lt;/a&gt;&lt;br/&gt;
+    &lt;a href=&quot;/res/fisica_I/exercicios/exercicio4.pdf&quot;&gt;Exercício 4&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;obs.:Clique no nome do exercício para fazer o download.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ivo Nascimento(mantenedor)&lt;/em&gt;&lt;/p&gt;</content>
  </entry>
  
  
