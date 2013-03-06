@@ -1,0 +1,12 @@
+---
+layout: default
+title: Grade de Horário de Aulas 1o Semestre 
+categories: [geral]
+---
+
+
+published at: 2013-03-06 08:50 hs
+
+Adicionada a grade de aulas no menu do lado esquerdo da página.
+
+Ivo Nascimento(mantenedor)
