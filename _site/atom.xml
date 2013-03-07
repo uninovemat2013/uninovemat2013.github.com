@@ -4,13 +4,28 @@
  <title>/dev/null</title>
  <link href="http://blog.augustopascutti.com/atom.xml" rel="self"/>
  <link href="http://blog.augustopascutti.com/"/>
- <updated>2013-03-06T10:20:13-03:00</updated>
+ <updated>2013-03-07T10:41:42-03:00</updated>
  <id>http://iannsp.github.com/</id>
  <author>
    <name>Ivo Nascimento Blog</name>
    <email>iannsp@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Exercícios da Aula 4 de Física</title>
+   <link href="http://iannsp.github.com//fisica I/exercicios/lista/arquivos/2013/03/07/Exercicios-Aula-4-Fisica/"/>
+   <updated>2013-03-07T00:00:00-03:00</updated>
+   <id>http://iannsp.github.com//fisica I/exercicios/lista/arquivos/2013/03/07/Exercicios-Aula-4-Fisica</id>
+   <content type="html">&lt;p&gt;published at: 2013-03-07 10:40 hs&lt;/p&gt;
+Estão disponíveis no site os arquivos da aula 4 de Física I.
+São dois arquivos, um de exercícios de aula e outro uma lista.
+verifique na seção de arquivos.
+&lt;p&gt;&lt;br/&gt;
+    &lt;b&gt;Link para download dos arquivos estão abaixo&lt;/b&gt;&lt;br /&gt;
+    &lt;a href=&quot;/res/fisica_I/EXERCICIO_DEAULA4.pdf&quot;&gt;Exercícios de Aula 4&lt;/a&gt;&lt;br/&gt;
+    &lt;a href=&quot;/res/fisica_I/lista_4.pdf&quot;&gt;Lista 4&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Presença do Coordenador do Curso no Prédio D</title>
