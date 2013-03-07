@@ -1,0 +1,16 @@
+---
+layout: default
+title: Exercícios da Aula 4 de Física 
+categories: [fisica I, exercicios, lista, arquivos]
+---
+
+
+published at: 2013-03-07 10:40 hs
+
+    Estão disponíveis no site os arquivos da aula 4 de Física I.
+    São dois arquivos, um de exercícios de aula e outro uma lista.
+    verifique na seção de arquivos.
+<br/>
+    <b>Link para download dos arquivos estão abaixo</b>
+    <a href="/res/fisica_I/EXERCICIO_DEAULA4.pdf">Exercícios de Aula 4</a><br/>
+    <a href="/res/fisica_I/lista_4.pdf">Lista 4</a><br/>
