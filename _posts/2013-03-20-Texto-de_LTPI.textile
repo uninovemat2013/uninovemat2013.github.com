@@ -1,0 +1,15 @@
+---
+layout: default
+title: Texto de LTP I 
+categories: [lpt I, arquivos]
+---
+
+
+published at: 2013-03-20 11:20 hs
+
+    Esta disponível no site o arquivo do texto que será utilizado nas aulas de LPT I.
+    O título do texto é "A matemática como prioridade numa sociedade Moderna".
+    verifique na seção de arquivos.
+<br/>
+    <b>Link para download do arquivo esta abaixo</b>
+    <a href="res/LPT_I/A_Matematica_como_prioridade_numa_sociedade_moderna.pdf"> Texto de LPT I</a>
