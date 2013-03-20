@@ -12,4 +12,4 @@ published at: 2013-03-20 11:20 hs
     verifique na seção de arquivos.
 <br/>
     <b>Link para download do arquivo esta abaixo</b>
-    <a href="res/LPT_I/A_Matematica_como_prioridade_numa_sociedade_moderna.pdf"> Texto de LPT I</a>
+    <a href="/res/LPT_I/A_Matematica_como_prioridade_numa_sociedade_moderna.pdf"> Texto de LPT I</a>
